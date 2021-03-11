@@ -19,5 +19,8 @@ Expected result:
 ```
 
 No language or library requirements from our side, use what you know and feel comfortable with!
-When you’re ready, post your solution on github (can be public if you do not put any company related information inside) and send Michal the link as an answer to this email.
+When you’re ready, post your solution on github (can be a public repo if you do not put any company related information inside) and send us the link per email.
 Please do not overcomplicate the task, but still it's expected to see some tests and have a clean code.
+
+If you have any questions, don't hesitate to reach out to us.
+
